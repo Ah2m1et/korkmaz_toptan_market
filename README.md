@@ -9,10 +9,9 @@ http://95.130.171.20/~st21360859072/
 ## Proje Youtube Linki
 ---
 ## Ekran Görüntüleri
-![image](https://github.com/Ah2m1et/korkmaz_toptan_market/assets/103003160/5f7f2f26-10b8-4567-b8c1-a2dfb3bb92a5)
+![image](https://github.com/Ah2m1et/korkmaz_toptan_market/assets/103003160/98784e6c-13a1-4bfc-940f-3cb5515f5ac9)
 
-![image](https://github.com/Ah2m1et/korkmaz_toptan_market/assets/103003160/33d0d0be-93a8-4d67-a563-0acb8fa87cbe)
-
+![image](https://github.com/Ah2m1et/korkmaz_toptan_market/assets/103003160/4212e0f3-b2f8-4a51-a028-f9f53fa201d0)
 
 ## Gereksinimler
 - [XAMPP](https://www.apachefriends.org/index.html) (Apache, MySQL, PHP)

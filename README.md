@@ -7,7 +7,7 @@ Korkmaz Toptan Market, geniş ürün yelpazesiyle hizmet veren bir market uygula
 http://95.130.171.20/~st21360859072/
 
 ## Proje Youtube Linki
----
+https://youtu.be/fXbemnqn8WA
 ## Ekran Görüntüleri
 ![image](https://github.com/Ah2m1et/korkmaz_toptan_market/assets/103003160/98784e6c-13a1-4bfc-940f-3cb5515f5ac9)
 

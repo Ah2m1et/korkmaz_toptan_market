@@ -43,7 +43,10 @@ git clone https://github.com/ah2m1et/korkmaz_toptan_market.git
 1. includes/db.php dosyasını açın.
 2. Veritabanı bağlantı bilgilerinizi aşağıdaki gibi düzenleyin:
 ```php
-$conn = new mysqli('localhost', 'root', '', 'toptan_market');
+$servername = "localhost";
+$username = "root";
+$password = "";
+$dbname = "toptan_market";
 ```
 
 ### Projeyi Çalıştırma
